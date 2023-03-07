@@ -177,7 +177,9 @@ body {
 .about {
   /* padding: 10rem; */
   /* background-color: salmon; */
-  padding: 3rem 0.1rem;
+  /* height: 50vh; */
+  padding: 5rem;
+  position: relative;
 }
 
 .menu {
@@ -231,6 +233,8 @@ body {
   /* background-color: black; */
   margin: auto;
 }
+
+
 
 .about .row .content h3 {
   font-size: 1.8rem;
@@ -544,9 +548,11 @@ footer .credit a {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  /* max-width: 1000px; */
+  width: 35rem;
   position: relative;
   margin: auto;
+  /* padding: 5rem; */
   /* margin-right: 100px; */
   /* background-color: black; */
 }
